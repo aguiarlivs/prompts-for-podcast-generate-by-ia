@@ -1,0 +1,4 @@
+/imagine prompt:A cinematic portrait of a Brazilian female podcaster with an athletic body, long wavy hair tied in a ponytail, 
+tanned skin, wearing a sporty top and over-ear headphones, smiling confidently while speaking into a professional studio microphone, 
+near a CrossFit-style background. Visible metal bars and kettlebells, neon accents, with glowing night city lights through the window. 
+Warm rim lighting from one side, cool ambient blue highlights from the other, soft bokeh in the background. Created Using: Canon EOS R5, 85mm f/1.2 lens, ultra-detailed 16K processing, studio-grade lighting rig, photorealistic skin rendering, cinematic shadows, global illumination, shallow depth of field, realistic color grading, inspired by modern fitness studios and podcast environments, glibatree prompt, hyperrealistic skin and fabric textures, crisp lens effects, dynamic mood --ar 3:4
